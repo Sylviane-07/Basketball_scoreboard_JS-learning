@@ -3,6 +3,8 @@ body {
     margin: 0;
     color: white;
     background-color: rgba(27, 36, 74, 1);
+    display: flex;
+    justify-content: center;
 }
 
 .container {
@@ -21,7 +23,7 @@ h3{
     flex-direction: column;
     justify-content: space-around;
     align-items: center;
-    margin: auto 10px;
+    margin: auto 30px;
 }
 
 .score {
